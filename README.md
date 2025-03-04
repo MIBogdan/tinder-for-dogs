@@ -5,7 +5,7 @@
 
 ## Overview
 
-**Tindog ** is a fun and interactive landing page designed to resemble a dating app for dogs. Built using Bootstrap, it provides a sleek, responsive design with well-structured UI components. The website showcases different features like membership plans, testimonials, and a CTA for downloading the app.
+**Tindog** is a fun and interactive landing page designed to resemble a dating app for dogs. Built using Bootstrap, it provides a sleek, responsive design with well-structured UI components. The website showcases different features like membership plans, testimonials, and a CTA for downloading the app.
 
 
 
